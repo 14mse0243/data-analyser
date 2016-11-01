@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android Data Analyser</string>
+    <string name="action_settings">action</string>
+    <string name="title">Title</string>
+    <string name="_0_kb">0 Kb</string>
+    <string name="data_usage_since_device_boot">Data usage since device boot</string>
+    <string name="not_supported">Not supported</string>
+    <string name="wifi">WiFi</string>
+    <string name="_0_0_kb">0.0 Kb</string>
+    <string name="_3g">3G</string>
+    <string name="total">Total</string>
+    <string name="_0_0_kbs">0.0 Kb</string>
+    <string name="_0_0_kbs1">0.0 Kb</string>
+    <string name="start">START</string>
+    <string name="speed_check">speed check</string>
+    <string name="error">ERROR</string>
+</resources>
